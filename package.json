@@ -1,0 +1,22 @@
+{
+  "name": "touch-drag-button",
+  "version": "1.0.0",
+  "description": "Drag and drop hover button based on react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/houwhu/touch-drag-button.git"
+  },
+  "keywords": [
+    "drag"
+  ],
+  "author": "small_knife",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/houwhu/touch-drag-button/issues"
+  },
+  "homepage": "https://github.com/houwhu/touch-drag-button#readme"
+}
