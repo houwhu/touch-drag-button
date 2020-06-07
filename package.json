@@ -1,6 +1,6 @@
 {
   "name": "touch-drag-button",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "```\r  npm install touch-drag-button\r ```",
   "main": "index.js",
   "scripts": {
