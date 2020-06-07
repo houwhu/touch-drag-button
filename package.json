@@ -1,6 +1,6 @@
 {
   "name": "touch-drag-button",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "```\r  npm install touch-drag-button\r ```",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/houwhu/touch-drag-button.git"
   },
-  "keywords": [],
+  "keywords": ["h5", "touch", "drag"],
   "author": "small_knife",
   "license": "ISC",
   "bugs": {
